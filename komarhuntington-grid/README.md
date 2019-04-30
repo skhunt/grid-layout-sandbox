@@ -1,2 +1,2 @@
-<![template wireframe]('komarhuntington/assets/images/template-wireframe.png')
-<![original template]('komarhuntington/assets/images/template-original.png')
+<img src="assets/images/template-wireframe.png"/>
+<img src="assets/images/template-original.png"/>
